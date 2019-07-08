@@ -1,0 +1,12 @@
+ObjectRepository\myDoctorOnlinePage.class
+ObjectRepository\yourPregnancyPage.class
+ObjectRepository\ProfilePage.class
+ObjectRepository\doctorSearchResultPage.class
+ObjectRepository\signInPage.class
+ObjectRepository\myDocumentPage.class
+ObjectRepository\searchFoundPage.class
+ObjectRepository\loginLandingPage.class
+ObjectRepository\userWelcomePage.class
+Automation\CucumberKaiser\AppTest.class
+ObjectRepository\FindDoctorsLocationsPage.class
+ObjectRepository\notificationPage.class
